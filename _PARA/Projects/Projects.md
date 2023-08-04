@@ -8,5 +8,7 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 %% Begin Waypoint %%
 - **[[Test Project]]**
 - **[[Test Project 2]]**
+- **[[life after rpk]]**
+- **[[graphic design]]**
 
 %% End Waypoint %%
